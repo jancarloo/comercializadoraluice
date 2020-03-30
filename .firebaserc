@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "comercializadora-luice"
+    "default": "comercializadora-luice",
+    "jc": "comercializadora-luice"
   }
 }
